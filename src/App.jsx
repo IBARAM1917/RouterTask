@@ -336,7 +336,7 @@ const App = () => {
           <Route path="/" element={<All data={data} />} />
           <Route path="/fullstack" element={<Fullstack data={data} />} />
           <Route path="/datascience" element={<Datascience data={data} />} />
-          <Route path="/cybersecurity" element={<Cyber  data={data} />} />
+          <Route path="/cybersecurity" element={<Cyber data={data} />} />
           <Route path="/career" element={<Career data={data} />} />
         </Routes>
       </BrowserRouter>

@@ -1,5 +1,5 @@
 body {
-  font-family: 'dm sans', Sans-serif;
+  font-family: "dm sans", Sans-serif;
 }
 
 .nav-link {
@@ -11,8 +11,7 @@ body {
   line-height: 20px;
 }
 
-@media screen and (min-width:1024px) {
-
+@media screen and (min-width: 1024px) {
   .nav-link:hover,
   .nav-link:active,
   .nav-link.active {
@@ -28,9 +27,9 @@ body {
 }
 
 .card {
-  font-family: 'dm sans', Sans-serif;
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);
-  transition: all .5s;
+  font-family: "dm sans", Sans-serif;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+  transition: all 0.5s;
   cursor: pointer;
 }
 
